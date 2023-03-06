@@ -24,9 +24,7 @@ img{
     margin-left: 5%;
     width: 10%;
     height: 10%;
-    cursor: pointer;
-    
-
+   
 }
 
  .nav-item .button1 {
@@ -51,16 +49,8 @@ img{
     position: relative;
     background:#12d4bd;
 }
-.menu{
-    height: 2%;
-    width: 100%;
-    margin: auto;
-    padding: 35px 0;
-    position: fixed;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
+
+
 .nav-item:hover .sub-menu-1 ul li{
     display: block;
     margin: 6px;
