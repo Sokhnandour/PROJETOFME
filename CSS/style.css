@@ -89,8 +89,19 @@ img{
 }
 @media all and (max-width: 767px) {
     .bg-nav{
-        background-color: rgb(21, 20, 51, 0.8);
+        background-color: #151433cc;
         backdrop-filter: 5px;
+
+       
+    }
+    
+}
+
+@media all and (max-width: 1024px) {
+    .bg-nav{
+        background-color: #151433cc;
+        backdrop-filter: 5px;
+        
        
     }
     
