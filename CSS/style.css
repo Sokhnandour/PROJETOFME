@@ -46,14 +46,13 @@ img{
 .nav-item:hover .sub-menu-1{
     display: block;
     
-    position: relative;
     background:#12d4bd;
 }
 
 
 .nav-item:hover .sub-menu-1 ul li{
     display: block;
-    margin: 6px;
+
     border-bottom: 1px dotted #fff;
     border-radius: 5px;
     text-align: left;
